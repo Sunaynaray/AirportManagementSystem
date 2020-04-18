@@ -1,4 +1,4 @@
-# AirportManagementSyst
+# AirportMgmtSystem
 ## Airport
 This module deals with airport details and allows adding, editing or deleting them. This module stores these details about each Airport: Airport ID, Airport Name, Location, Runways.
 Work flow: Primary key used for this module is Airport ID. There are three options provided for data manipulation:
